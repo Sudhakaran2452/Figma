@@ -34,6 +34,8 @@ Figma
 
 ## CODE:
 
+##page 1:
+
 <div style="width: 360px; height: 640px; position: relative; background: #FFF4F4">
   <div style="width: 189px; height: 47px; left: 71px; top: 419px; position: absolute; background: #CC1255"></div>
   <div style="width: 131px; height: 67px; left: 107px; top: 419px; position: absolute; color: #E5E6EC; font-size: 36px; font-family: Inter; font-weight: 400; word-wrap: break-word">LOGIN</div>
@@ -42,6 +44,8 @@ Figma
   <div style="width: 276px; height: 50px; left: 44px; top: 94px; position: absolute; background: #1632C7"></div>
   <div style="width: 289px; height: 68px; left: 71px; top: 100px; position: absolute; color: white; font-size: 36px; font-family: Inter; font-weight: 400; word-wrap: break-word">SPORTS DAY</div>
 </div>
+
+##page 2:
 
 <div style="width: 360px; height: 640px; position: relative; background: #90E7ED">
   <div style="width: 260px; height: 29px; left: 54px; top: 107px; position: absolute; color: black; font-size: 24px; font-family: Inter; font-weight: 400; word-wrap: break-word">ATHLETICS  EVENTS</div>
@@ -58,6 +62,8 @@ Figma
   <div style="left: 74px; top: 496px; position: absolute; color: black; font-size: 20px; font-family: Inter; font-weight: 400; word-wrap: break-word">4000 meter relay</div>
   <img style="width: 300px; height: 45px; left: 30px; top: 21px; position: absolute" src="https://via.placeholder.com/300x45" />
 </div>
+
+##page 3:
 
 <div style="width: 360px; height: 640px; position: relative; background: #83D5E7">
   <div style="left: 72px; top: 56px; position: absolute; color: #0E0B9F; font-size: 20px; font-family: Inter; font-weight: 400; word-wrap: break-word">EVENT REGISTRATION</div>
